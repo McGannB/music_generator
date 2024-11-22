@@ -1,1 +1,3 @@
 # music_generator
+
+# This project creates a program that generates random melodies with popular chord progressions and saves them as MIDI files. MIDI (Musical Instrument Digital Interface) is a widely used format for music production, allowing digital instruments and software to communicate. Using Python and the MIDIUtil library, the program selects notes randomly from a predefined scale that the user selects with a randomly generated starting note (ie. user selects a major scale and the program selects which major scale), and writes them to a track, producing a unique melody and sound each time it runs.
